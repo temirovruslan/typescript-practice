@@ -1,5 +1,5 @@
 // =========================  1 ==================
-// function
+// typying functions:
 interface AddNumbersFunction {
 	(a: number, b: number): number;
 }

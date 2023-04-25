@@ -3,7 +3,7 @@
 interface UserInfoType {
 	phone: string;
 }
-
+// interface can be extended from type
 interface UserType extends UserInfoType {
 	name: string;
 	readonly surname: string;
